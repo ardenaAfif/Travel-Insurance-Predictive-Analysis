@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk memprediksi pelanggan yang kemungkinan akan membeli a
 
 Latar belakang proyek ini timbul karena kebutuhan untuk mengidentifikasi calon pelanggan yang memiliki potensi untuk membeli asuransi perjalanan. Asuransi perjalanan memberikan perlindungan kepada individu yang bepergian, melindungi mereka dari berbagai risiko seperti sakit, keterlambatan pesawat, atau kejadian tak terduga lainnya yang mungkin terjadi selama perjalanan mereka, terutama yang berkaitan dengan kondisi rumah mereka yang ditinggalkan. [[1]](https://kc.umn.ac.id/13580/)
 
-Hasil dari proyek ini akan berupa model machine learning yang dapat berperan sebagai alat pendukung dalam pengambilan keputusan bagi perusahaan asuransi perjalanan. Hal ini menjadi relevan mengingat tren bisnis di bidang asuransi perjalanan diprediksi akan meningkat kembali setelah hampir mengalami kepunahan selama masa pandemi [2]. Dengan pemulihan dalam industri penerbangan, asuransi perjalanan menjadi produk yang menarik bagi para pelancong, terutama mengingat risiko pandemi yang masih memerlukan waktu untuk kembali ke kondisi normal.
+Hasil dari proyek ini akan berupa model machine learning yang dapat berperan sebagai alat pendukung dalam pengambilan keputusan bagi perusahaan asuransi perjalanan. Hal ini menjadi relevan mengingat tren bisnis di bidang asuransi perjalanan diprediksi akan meningkat kembali setelah hampir mengalami kepunahan selama masa pandemi. Dengan pemulihan dalam industri penerbangan, asuransi perjalanan menjadi produk yang menarik bagi para pelancong, terutama mengingat risiko pandemi yang masih memerlukan waktu untuk kembali ke kondisi normal.
 
 ## Business Understanding
 
